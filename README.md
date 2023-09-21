@@ -8,3 +8,4 @@ What are the ways that I have contributed to the businesses (non-exhaustive):
 - customer segmentation through RFM analysis: knowing who are our best customers and who are those whom we can work on to improve revenue
 - engagment in LLMs: how do my ex-bosses view performance?  Skip the reading - let NLP (e.g. sentiment analysis and text summarization) provide you with a quick snapshot
 - given a dataset of insurance premiums - how can we best predict the premium for a new insured who displayed a set of characteristics using sklearn and pycaret package?
+- customer sgementation through Cohort analysis, RFM analysis and clustering
